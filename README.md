@@ -1,2 +1,9 @@
 # 4can10000won
-맥주 커뮤니티
+# Build
+```
+$ ./gradlew clean build
+```
+# Run
+```
+$ java -jar build/libs/beer_community-0.0.1-SNAPSHOT.jar
+```
