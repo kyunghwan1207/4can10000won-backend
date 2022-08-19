@@ -1,0 +1,26 @@
+.container {
+  margin-top: 100px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.img {
+  margin-top: 40px;
+  width: 70px;
+}
+
+.circle {
+  width: 370px;
+  height: 370px;
+  border-radius: 50%;
+  background-color: #aae8be;
+  position: absolute;
+  top: -4%;
+  right: -25%;
+  z-index: -1;
+}

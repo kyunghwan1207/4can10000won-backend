@@ -1,0 +1,21 @@
+.mainBox {
+  display: flex;
+  flex-direction: column;
+  padding-top: 4rem;
+  width: 20rem;
+  border: 2px solid var(--background-color);
+  z-index: -1;
+  padding-bottom: 5rem;
+}
+.sub {
+  display: flex;
+  flex-direction: column;
+  padding-top: 4rem;
+  width: 20rem;
+  height:20rem;
+  border: 2px solid var(--background-color);
+  z-index: -1;
+  padding-bottom: 5rem;
+  text-align: center;
+  font-size: large;
+}
